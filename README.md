@@ -93,7 +93,6 @@ The raw workbook deliberately contains real-world data-quality problems: inconsi
 - `customer_churn.db` — SQLite database built from the workbook
 - `exported_churn_data.csv` — cleaned, merged, feature-engineered dataset (1,000 × 27) for dashboarding
 - `kpi_summary.csv` — the consolidated KPI table
-- `generate_dataset.py` — script used to build the raw workbook
 
 ## Key Insights
 
