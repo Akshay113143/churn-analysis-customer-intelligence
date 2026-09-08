@@ -1,0 +1,25 @@
+KPI,Value
+Customers analysed,1000.0
+Support tickets processed,742.0
+Overall churn rate (%),29.0
+Retention rate (%),71.0
+Monthly-contract churn (%),47.2
+Annual-contract churn (%),6.3
+Monthly vs annual churn gap (x),7.5
+Basic-plan churn (%),38.5
+Premium-plan churn (%),18.2
+ARPU (Rs),14.39
+Avg tenure (days),1100.0
+Avg tenure at cancellation (days),678.0
+Churn within first 12 months (%),39.0
+MRR lost to churn (Rs),3688.1
+Annualised revenue at risk (Rs),44257.2
+Share of lost MRR from Monthly (%),91.3
+Escalation rate (%),20.6
+Churn if escalated (%),52.9
+Churn if no escalation (%),22.8
+Avg complaints per user,0.74
+"corr(escalation, churn)",0.268
+"corr(churn_score, churn)",0.609
+High-risk segment share (%),13.4
+Churn captured in top 3 deciles(%),70.7
